@@ -1,0 +1,32 @@
+
+.trainer div{
+	display: block;
+	float: left;
+	margin-left: 50px;
+	margin-right: auto;
+	
+}
+.trainer  img{
+	margin-left: 20px;
+}
+
+table{
+	border: 2px solid white;
+	border-collapse: collapse;
+	width: 600px;
+	height: 400px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Arial;
+	font-size: 14pt;
+	color: white;
+	margin: auto;
+}
+th, td{
+	border: 1px solid white;
+}
+.ColColor{
+	background: orange;
+}
+
+

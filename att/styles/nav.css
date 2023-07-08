@@ -1,0 +1,9 @@
+.nav a{
+	text-decoration: none;
+	color: yellow;
+	font-size: 16pt;
+	
+}
+a:hover{
+	color: darkorange;
+}

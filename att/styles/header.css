@@ -1,0 +1,27 @@
+.header div{
+	border: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: nowrap;
+	padding: 10px;
+}	
+
+
+.header img{
+	width:800px;
+}
+.header a{
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	border: 2px solid darkorange;
+	border-radius: 10px;
+}
+.header a:hover{
+	background: darkorange;
+	color: yellow;
+}
+

@@ -1,0 +1,35 @@
+
+.btn{
+	border: 2px solid gold;
+	background-color: yellow;
+	color: darkorange;
+	border: 2px solid darkorange;
+	border-radius: 10px;
+	margin:0 0 3px;
+	
+	
+}
+.btn:hover{
+	color: yellow;
+	background-color: darkorange;
+}
+form div{
+	text-align: center;
+	margin: 10px 0 10px 30px;
+	padding: 0;
+	width:200px;
+	
+}
+form input{
+	border: 2px solid darkorange;
+	border-radius: 10px;
+}
+	
+
+
+.aside a{
+	color: yellow;
+}
+.aside a:hover{
+	color: darkorange;
+}
